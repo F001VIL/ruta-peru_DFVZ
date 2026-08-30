@@ -1,0 +1,6 @@
+{
+  "name": "Ruta Perú",
+  "description": "Sistema Nacional de Descubrimiento Turístico del Perú: itinerarios por reglas, clima en tiempo real, mapas y Pasaporte Perú con logros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

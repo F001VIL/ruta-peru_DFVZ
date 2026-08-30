@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986086941973",
+    "project_id": "ruta-peru",
+    "storage_bucket": "ruta-peru.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986086941973:android:76278225152fb0dfa5751c",
+        "android_client_info": {
+          "package_name": "com.aistudio.rutaperu.tourist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwWJYcUfY5Na8-JYWeQCa2pwjN7-O7VWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
